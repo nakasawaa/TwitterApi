@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/server.js",
+    "start": "node server.js"
+  },
+  "name": "projet_apitwitter",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
